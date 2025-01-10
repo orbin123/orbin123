@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orbin123
-- 👀 I’m interested in Software Development
-- 🌱 Recent Graduate looking for opportunities
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 🌱 Recent BCA Graduate enrolled in a Machine Learning Program(Brototype)
 - 📫 I'm on Fiver and Upwork
 - 🔗 I have LinkedIn Profile
 <!---
