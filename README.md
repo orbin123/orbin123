@@ -4,5 +4,5 @@
 - 📫 I'm on Fiver and Upwork
 - 🔗 I have LinkedIn Profile
 
-[![Orbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=orbin123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Orbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=orbin123&show_icons=true&cache_seconds=1800)
 
